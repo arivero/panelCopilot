@@ -10,6 +10,7 @@ Basically a [search on github](https://github.com/search?q=%22Project+Mariner%22
 - [Simular](https://www.simular.ai/). A full browser. It seems they plan also a Desktop.
 - [webpilot](https://github.com/webpilot-ai/Webpilot). Well, this has a github.
 - Browserbot/autobrowser, extension by [@Namu](https://x.com/roadtoramen/status/1859272495271997665)
+- [AutoWebGLM](https://github.com/THUDM/AutoWebGLM) is an agent that includes web simplification, navigation and a chrome extension.
 
 ### Summarizers
 
@@ -31,6 +32,10 @@ able to extract text and summaries of a webpage, youtube video etc. There are a 
   - [babyAGI](https://github.com/yoheinakajima/babyagi_archive?tab=readme-ov-file),
   - Smyth|OS, https://github.com/Smyth-ai/smyth-runtime-local
   - multiOn, https://www.multion.ai/
+  - the [BrowserGym](https://github.com/ServiceNow/BrowserGym) ecosystem seems to work with chrome over playwright
+
+### Models
+  - HTML-T5 https://arxiv.org/pdf/2307.12856v4
 
 
 ## Mentions and comments related to Project Mariner 
