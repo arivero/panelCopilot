@@ -32,10 +32,18 @@ able to extract text and summaries of a webpage, youtube video etc. There are a 
   - [babyAGI](https://github.com/yoheinakajima/babyagi_archive?tab=readme-ov-file),
   - Smyth|OS, https://github.com/Smyth-ai/smyth-runtime-local
   - multiOn, https://www.multion.ai/
-  - the [BrowserGym](https://github.com/ServiceNow/BrowserGym) ecosystem seems to work with chrome over playwright
+  - the [BrowserGym](https://github.com/ServiceNow/BrowserGym) ecosystem seems to work with chrome over playwright. It includes [AgentLab](https://github.com/ServiceNow/AgentLab)
+    with some examples of [basic agents](https://github.com/ServiceNow/AgentLab/blob/main/src/agentlab/agents/most_basic_agent/most_basic_agent.py) over pruned_html.
 
-### Models
+#### with interesting html cleaning
+  - https://ltzheng.github.io/Synapse/
+  - WebArena seems to have the most commmon action-tree ("actree") extractor.  [Article](https://arxiv.org/abs/2307.13854)
+  - Agent-E  https://github.com/EmergenceAI/Agent-E
+  - Wilbur?
+
+### Models, ideas...
   - HTML-T5 https://arxiv.org/pdf/2307.12856v4
+  - use llm to imagine the result of an action https://arxiv.org/abs/2411.06559
 
 
 ## Mentions and comments related to Project Mariner 
